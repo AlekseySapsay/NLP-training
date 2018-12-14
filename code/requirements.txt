@@ -1,0 +1,6 @@
+
+wordnet==0.0.1b2 
+pattern==2.6
+nltk==3.4
+numpy==1.15.1 # that module required for nltk module
+#scandir==1.9.0 # remove it later. That module for looking for dir of file in directory and fix setup() func
